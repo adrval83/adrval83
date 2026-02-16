@@ -50,7 +50,7 @@ Build --> Debug
 Debug --> Improve
 
 📊 GITHUB STATS
-<div align="center"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrval83&theme=chartreuse-dark"/> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrval83&theme=chartreuse-dark"/> </div>
 
 ⚡ PHILOSOPHY
 while(alive){
